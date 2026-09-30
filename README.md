@@ -11,6 +11,13 @@ An ecological niche modeling framework using **Maxnet** and **CMIP6 climate scen
 - **Mean AUC:** 0.943
 - **Mean TSS:** 0.786
 
+## Sample Maps
+
+<img width="2200" height="2200" alt="Gymnema_sylvestre_current_suitability_clean" src="https://github.com/user-attachments/assets/edac22d2-c75d-47b7-ad5e-d21d9eb6c009" />
+<img width="2200" height="2200" alt="Parthenium_hysterophorus_current_suitability_clean" src="https://github.com/user-attachments/assets/505cdb54-bad4-41a1-b33e-758b02ae2763" />
+<img width="2200" height="2200" alt="Pterocarpus_santalinus_current_suitability_clean" src="https://github.com/user-attachments/assets/a25d6adf-a4c4-4f4b-b7ed-86a4dacf9893" />
+
+
 ## 📁 Repository Structure
 - `scripts/`: R scripts for preprocessing, Maxnet modeling, and future projection analysis.
 - `outputs/`: Summary performance metrics and projected range-shift visualizations.
